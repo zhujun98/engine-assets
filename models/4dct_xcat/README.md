@@ -1,0 +1,1 @@
+Source: https://rdr.ucl.ac.uk/articles/dataset/4DCT_XCAT_phantom_dataset_for_Resolving_Variable_Respiratory_Motion_From_Unsorted_4D_Computed_Tomography_MICCAI2024/26132077
